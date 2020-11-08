@@ -23,6 +23,20 @@ def sum(a,*b):
         c=c+i
     print c
 
+def muliplication(*b):
+    print(b)
+    c=1
+    for i in b:
+        c=c*i
+    print c
+
+def student(name,**data):
+    print("name ",name)
+    for i,j in data.items():
+        print(i,j)
+
+
+
 
 wish()
 
@@ -37,3 +51,7 @@ person(age=6,name="Megh")
 person(name="Vish")
 
 sum(1,2,3,4)
+
+muliplication(10,2,1)
+
+student("Vish",age=16,city="London")
