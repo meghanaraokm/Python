@@ -8,5 +8,5 @@ def fact(n):
         result=result*i
     return result
 
-print(fact(n))
+print("{}! is {}".format(n,fact(n)))
 
