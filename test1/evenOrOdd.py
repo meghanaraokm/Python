@@ -11,7 +11,7 @@ def count(lst):
     return even, odd
 
 
-lst=[1,2,3,4]
+lst=[1,2,3,4,5]
 
 even,odd=count(lst)
 print(even,odd)
