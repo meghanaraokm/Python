@@ -34,6 +34,9 @@ class D():                                              #parent class of D
     def __init__(self):
         print("init in D")
 
+    def feature1(self):
+        print("feature 1 D working")
+
     def feature4(self):
         print("feature 4 D working")
 
@@ -42,6 +45,7 @@ class E(A,D):                                       #child (sub) class of A & D 
 
     def __init__(self):
         print("init in E")
+        super().__init__()
 
     def feature4(self):
         print("feature 4 E working")
@@ -51,5 +55,13 @@ class E(A,D):                                       #child (sub) class of A & D 
 a1=A()
 
 b1=B()
+b1.feature1()
 
 c1=C()
+c1.feature1()
+
+d1=D()
+
+e1=E()
+e1.feature1()
+e1.feature4()
