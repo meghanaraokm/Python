@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbad3e6e-5f21-4377-93b2-fac7aa092e5b" name="Default Changelist" comment="Adding files">
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/.idea/OOPsDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/ClassesMethods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPsDemo/ClassesMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPsDemo/ClassesMethods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
