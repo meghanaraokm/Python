@@ -6,7 +6,7 @@ class Student():
         self.lap=laptop
 
     def show(self):
-        print self.name, self.roll
+        print(self.name, self.roll)
         self.lap.show()
 
     class Laptop():
@@ -16,7 +16,7 @@ class Student():
             self.ram=ram
 
         def show(self):
-            print self.brand, self.ram
+            print(self.brand, self.ram)
 
 lap2=Student.Laptop("Mac",64)
 

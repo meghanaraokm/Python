@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbad3e6e-5f21-4377-93b2-fac7aa092e5b" name="Default Changelist" comment="Adding files">
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPsDemo/Inheritance.py" afterDir="false" />
+    <list default="true" id="dbad3e6e-5f21-4377-93b2-fac7aa092e5b" name="Default Changelist" comment="renamed project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -250,7 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604946614805</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="renamed project">
+      <created>1604966329844</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604966329844</updated>
+    </task>
+    <task id="LOCAL-00012" summary="renamed project">
+      <created>1604966368954</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604966368954</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,13 +274,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding functions file" />
     <MESSAGE value="Adding functions" />
     <MESSAGE value="Adding demo files" />
     <MESSAGE value="Adding files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding files" />
+    <MESSAGE value="renamed project" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604783345805">
@@ -312,10 +325,10 @@
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state x="397" y="178" key="SettingsEditor/0.23.1792.1033@0.23.1792.1033" timestamp="1604783415189" />
-    <state x="496" y="279" key="Vcs.Push.Dialog.v2" timestamp="1604946620039">
+    <state x="496" y="279" key="Vcs.Push.Dialog.v2" timestamp="1604966376595">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
-    <state x="496" y="279" key="Vcs.Push.Dialog.v2/0.23.1792.1033@0.23.1792.1033" timestamp="1604946620039" />
+    <state x="496" y="279" key="Vcs.Push.Dialog.v2/0.23.1792.1033@0.23.1792.1033" timestamp="1604966376595" />
     <state x="721" y="152" width="604" height="822" key="find.popup" timestamp="1604786289676">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
