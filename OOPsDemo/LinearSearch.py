@@ -15,7 +15,7 @@ def search(li,key):
         return False
 
 
-li=[3, 5, 6, 8, 9]
+li=[7, 5, 6, 10, 9]
 key=int(input("Enter the number to be searched : "))
 pos=0
 
